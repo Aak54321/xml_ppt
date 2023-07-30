@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slides>
+    <slide>
+        <title>XML</title>
+        <content>eXtended Markup Language</content>
+    </slide>
+    <slide>
+        <title>HTML</title>
+        <content>Hyper Text Markup Language</content>
+    </slide>
+    <!-- Add more slides as needed -->
+</slides>
