@@ -3,7 +3,7 @@ This project uses APACHE POI for converting xml to ppt
 
 For this you need Apache poi's binary artifacts, get it from here👉 [Apache POI](https://archive.apache.org/dist/poi/release/bin/)
 
-* Download the any 5.x.x version (mine using 5.3.2)
+* Download the any 5.x.x version (mine using 5.2.2)
 * Clone or download this repo and create a folder in it
 * Extract the contents of zip from apache poi
 * Copy .jar files from root directory,lib,ooxml-lib to the created new folder
